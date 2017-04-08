@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Andrew Samir</string>
+    <string name="CLIENT_ID">ZPMDIRJXQHBNX3TKLET0TKNNI1O0B31A4ACLYKKIP1C41DWO</string>
+    <string name="CLIENT_SECRET">2ORX0X3WTZD5L3LB3OSCEP3JLHVBGWDZ15DNBSMU0FYB3AQC</string>
+    <string name="Install_the_app">To do this, you’ll need the latest version of Foursquare installed.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="MY_PREFS_NAME">MY_PREFS_NAME</string>
+
+</resources>
